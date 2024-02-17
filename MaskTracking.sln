@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskTracking", "MaskTracking\MaskTracking.csproj", "{E74BDF59-9DBE-42FE-B2B9-AE5BC8189692}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{B9A94182-6229-4D74-90C1-127D4C47C450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{F6B89790-6C7F-45B7-9E34-B3CB25C4B969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E74BDF59-9DBE-42FE-B2B9-AE5BC8189692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E74BDF59-9DBE-42FE-B2B9-AE5BC8189692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E74BDF59-9DBE-42FE-B2B9-AE5BC8189692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A94182-6229-4D74-90C1-127D4C47C450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A94182-6229-4D74-90C1-127D4C47C450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A94182-6229-4D74-90C1-127D4C47C450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A94182-6229-4D74-90C1-127D4C47C450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B89790-6C7F-45B7-9E34-B3CB25C4B969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B89790-6C7F-45B7-9E34-B3CB25C4B969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B89790-6C7F-45B7-9E34-B3CB25C4B969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B89790-6C7F-45B7-9E34-B3CB25C4B969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
